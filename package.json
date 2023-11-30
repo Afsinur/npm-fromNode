@@ -1,0 +1,25 @@
+{
+  "name": "@afsinur/from-node",
+  "version": "1.0.0",
+  "description": "This function selects single and multiple elements from a parent source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afsinur/npm-fromNode.git"
+  },
+  "keywords": [
+    "from-node",
+    "afsinur-from-node",
+    "js-selector",
+    "select-js-framework"
+  ],
+  "author": "afsinur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afsinur/npm-fromNode/issues"
+  },
+  "homepage": "https://github.com/Afsinur/npm-fromNode#readme"
+}
